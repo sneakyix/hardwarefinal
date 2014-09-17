@@ -1,0 +1,35 @@
+body
+{
+    width:960px;
+    margin: 10px auto;
+}
+
+img
+{
+    margin-right: 30px;
+}
+
+img.content
+{
+    margin: 0px;
+    float: right;
+}
+
+h1
+{
+    background-color: black;
+    color: red;
+    font-family: Impact;
+    font-size: 40px;
+    padding: 10px;
+}
+
+p
+{
+    font-family: Comic Sans MS;
+    font-size: 16px;
+}
+
+a:link{color: red}
+a:hover{color: orange}
+a:visited{color: red} 
